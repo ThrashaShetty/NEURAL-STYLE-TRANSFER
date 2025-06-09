@@ -63,6 +63,12 @@ Applications:Neural Style Transfer has a wide range of creative and practical ap
 
 This Neural Style Transfer project demonstrates the powerful synergy between deep learning and artistic creativity. By leveraging a pre-trained VGG19 model, the code effectively captures the structural content of one image and the artistic style of another, blending them into a visually compelling output. With its flexibility, GPU support, and customizable parameters, the application offers both a technical and artistic tool for creating unique, stylized images.
 
+## OUTPUT
+
+![Image](https://github.com/user-attachments/assets/703300d7-7c99-4f06-af49-c7bff8733139)
+
+![Image](https://github.com/user-attachments/assets/0eca9f59-ca31-4ac9-8f4b-302d6d791ccf)
+
 
 
 
